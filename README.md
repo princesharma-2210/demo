@@ -1,3 +1,4 @@
 # demo
 This is my first github respository<br>
-Author- IAS Prince sharma.
+Author- full stack developer Prince sharma.
+Today i start to doing coding
